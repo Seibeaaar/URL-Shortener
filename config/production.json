@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecretKey": "secret key",
+  "mongoURL": "mongodb+srv://Seibeaaar:poland1939@cluster0-v2l1d.azure.mongodb.net/app?retryWrites=true&w=majority",
+  "baseURL" : "http://localhost:5000"
+}
